@@ -1,1 +1,1 @@
-docker-machine create --driver virtualbox Char
+sudo docker-machine create --driver virtualbox Char
